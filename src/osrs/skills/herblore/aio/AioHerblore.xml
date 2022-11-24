@@ -1,0 +1,24 @@
+<manifest>
+    <!--  The main class  -->
+    <main-class>osrs.skills.herblore.aio.AioHerblore</main-class>
+    <name>Jojo Herblore</name>
+    <description>
+        Reckoning soon
+    </description>
+    <tag-line>Fastest on runemate</tag-line>
+    <version>0.0.1</version>
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+    <hidden>false</hidden>
+    <access>public</access>
+    <categories>
+        <category>HERBLORE</category>
+        <category>MONEYMAKING</category>
+    </categories>
+    <internal-id>Jojo-Herblore-V1</internal-id>
+    <resources>
+        <resource>osrs/skills/herblore/aio/ui/AioHerbloreGUI.fxml</resource>
+        <resource>osrs/skills/herblore/aio/ui/InfoUI.fxml</resource>
+    </resources>
+</manifest>

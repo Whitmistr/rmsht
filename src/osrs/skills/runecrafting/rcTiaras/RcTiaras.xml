@@ -1,0 +1,19 @@
+<manifest>
+    <!--  The main class  -->
+    <main-class>ned.bots.osrs.skills.runecrafting.rcTiaras.RcTiaras</main-class>
+    <name>JoJo Tiaras</name>
+    <description>
+        Fast and bizarre
+    </description>
+    <tag-line>looool</tag-line>
+    <version>0.0.1</version>
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+    <categories>
+        <category>RUNECRAFTING</category>
+    </categories>
+    <internal-id>RUNECRAFTING</internal-id>
+    <resource>ned/bots/osrs/skills/runecrafting/rcTiaras/ui/InfoUI.fxml</resource>
+    <resource>ned/bots/osrs/skills/runecrafting/rcTiaras/ui/RcTiarasGUI.fxml</resource>
+</manifest>

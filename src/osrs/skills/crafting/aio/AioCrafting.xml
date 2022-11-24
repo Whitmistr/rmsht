@@ -1,0 +1,23 @@
+<manifest>
+    <!--  The main class  -->
+    <main-class>osrs.skills.crafting.aio.AioCrafting</main-class>
+    <name>Jojo Crafting</name>
+    <description>
+        Fast leather, gem, glass, dragonhide and battlestaff crafter.
+    </description>
+    <tag-line>Fastest on runemate</tag-line>
+    <version>1.0.0</version>
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+    <hidden>false</hidden>
+    <access>public</access>
+    <categories>
+        <category>CRAFTING</category>
+    </categories>
+    <internal-id>Jojo-Crafting-V1</internal-id>
+    <resources>
+        <resource>osrs/skills/crafting/aio/ui/AioCraftingGUI.fxml</resource>
+        <resource>osrs/skills/crafting/aio/ui/InfoUI.fxml</resource>
+    </resources>
+</manifest>

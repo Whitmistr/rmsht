@@ -1,0 +1,25 @@
+<manifest>
+    <!--  The main class  -->
+    <main-class>osrs.skills.smithing.smelting.AioSmelting</main-class>
+    <name>Jojo Smelting</name>
+    <description>
+        Smelts bars, silver and gold jewellery.
+    </description>
+    <tag-line>Fastest on runemate</tag-line>
+    <version>1.0.0</version>
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+    <hidden>false</hidden>
+    <access>public</access>
+    <categories>
+        <category>CRAFTING</category>
+        <category>SMITHING</category>
+        <category>MONEYMAKING</category>
+    </categories>
+    <internal-id>Jojo-Smelting-V1</internal-id>
+    <resources>
+        <resource>osrs/skills/smithing/smelting/ui/AioSmeltingGUI.fxml</resource>
+        <resource>osrs/skills/smithing/smelting/ui/InfoUI.fxml</resource>
+    </resources>
+</manifest>
